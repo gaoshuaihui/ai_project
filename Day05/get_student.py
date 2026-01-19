@@ -20,3 +20,5 @@ print(f"请编号为：{random.randint(2,8)} 同学回答")
         order by a.id desc
         limit 3;
 """
+
+print("请输入查询条件：测试")
